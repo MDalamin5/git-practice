@@ -1,1 +1,2 @@
 this is new file and this file is practice to git conflicts
+i am changes from the master branch
