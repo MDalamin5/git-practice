@@ -1,2 +1,3 @@
 this is new file and this file is practice to git conflicts
-i am changes from the master branch
+now i add this line from feature4 branch
+
